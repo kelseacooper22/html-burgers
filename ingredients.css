@@ -2,7 +2,7 @@
   height: 70px;
   width: 60%;
   background: #e5b05a;
-  border-radius: 100px 100px 20px 20px;
+  border-radius: 90px 90px 20px 20px;
   border-bottom: solid 10px rgba(0,0,0,.1);
 }
 
@@ -11,6 +11,7 @@
   width: 65%;
   background: #f2c120;
   border-bottom: solid 2px rgba(0,0,0,.1);
+  border-radius: 40px
 }
 
 .tomato {
@@ -21,10 +22,10 @@
 }
 
 .meatball {
-  height: 60px;
+  height: 32px;
   width: 70px;
   background: #74380d;
-  border-radius: 50px;
+  border-radius: 2px;
   display: inline-block;
   vertical-align: top;
 }
@@ -62,6 +63,13 @@
 .plate {
   height: 25px;
   width: 80%;
-  background: #656565;
+  background: #666666;
   border-radius: 20px 20px 200px 200px;
 }
+
+.lettuce {
+  height: 10px;
+  width: 65%;
+  background: #3b813f;
+  border-radius: 20px 20px 200px 200px;
+
